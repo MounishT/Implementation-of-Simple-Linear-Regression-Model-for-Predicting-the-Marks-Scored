@@ -14,11 +14,11 @@ To write a program to predict the marks scored by a student using the simple lin
 4. Predict the regression for marks by using the representation of the graph and compare the graphs and hence we obtained the linear regression for the given datas.
 ## Program:
 ```
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by:T MOUNISH 
 RegisterNumber:212223240098  
-*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,7 +79,7 @@ print("RMSE : ",np.sqrt(mse))
 ![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/bc3fc02b-c6b0-40b6-b185-fdfca4659cef)
 ![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/ae6dc783-4089-4850-a959-eb8d4bf14dc6)
 <br>
-**Values of MSE,MAE and RMSE**<br>
+*Values of MSE,MAE and RMSE**<br>
 ```
 MSE :  25.463280738222547
 MAE :  4.691397441397438
