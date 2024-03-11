@@ -55,37 +55,43 @@ print("RMSE : ",np.sqrt(mse))
 ```
 
 ## Output:
-```
-*df.head()** <br>
-![Screenshot 2024-02-26 212319](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/2d1ff80d-8215-440b-806c-658ab5b149f1)<br>
-**df.tail** <br>
-![Screenshot 2024-02-26 212329](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/93f89060-3a29-4fb2-99a5-bef6a9f6db53)
-</td> 
-<td>
+df.head()
 
-**X and Y values split** <br>
- ![Screenshot 2024-02-26 212209](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/5b488f39-2123-4a5c-9708-9bcc33d2d82e)
-</td>
-</tr> 
-</table>
-<br>
-<br>
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/740dca1e-8c66-4be5-800b-852af7397a1e)
 
-**Predicted Values of Y**<br>
-![Screenshot 2024-02-26 212638](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/e2be81a2-00bc-4298-bfbc-0de77e45b642)
-<br>
-<br>
-**Training and Testing set**<br>
-![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/bc3fc02b-c6b0-40b6-b185-fdfca4659cef)
-![download](https://github.com/ROHITJAIND/EX-02-SimpleLinearRegressionModel-for-Predicting-the-Marks-Scored/assets/118707073/ae6dc783-4089-4850-a959-eb8d4bf14dc6)
-<br>
-*Values of MSE,MAE and RMSE**<br>
-```
-MSE :  25.463280738222547
-MAE :  4.691397441397438
-RMSE :  5.046115410711743
+df.tail()
 
-```
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/09827cc8-a000-4b44-8570-54549fd6db5e)
+
+Array values of X
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/4998f9f8-d802-4816-a83c-95a5e1e4ca4e)
+
+Array values of Y
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/afa6b95d-b43d-471a-89b8-b89d3e914264)
+
+Values of Y prediction
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/56a38553-87a1-4e57-b7a6-e1d81a1c629d)
+
+Array values of Y test
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/dc6c31e2-70a6-4a53-a914-d6766dcd5123)
+
+Training Set Data
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/61ab9ab9-5268-46c1-8039-3f33141c6907)
+
+Test Set Data
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/afad7a76-be2a-4aa5-bf69-4322cf19602c)
+
+Values of MSE, MAE and RMSE
+
+![image](https://github.com/saiganesh2006/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742342/30a68ea1-f212-4f19-8422-3c4a3966a74b)
+
+
 
 
 ## Result:
